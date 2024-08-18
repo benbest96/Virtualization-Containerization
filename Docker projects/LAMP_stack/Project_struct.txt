@@ -1,0 +1,7 @@
+lamp-docker-project/
+│
+├── Dockerfile
+├── docker-compose.yml
+├── src/
+│   └── index.php
+└── README.md

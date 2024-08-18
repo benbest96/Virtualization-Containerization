@@ -1,3 +1,9 @@
+# LAMP Stack with Docker
+
+This project sets up a LAMP (Linux, Apache, MySQL, PHP) stack using Docker. It includes a simple PHP application that connects to a MySQL database.
+
+## Project Structure
+
 
 ## Prerequisites
 

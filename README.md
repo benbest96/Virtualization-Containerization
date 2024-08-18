@@ -1,1 +1,1 @@
-# Virtualization-Containerization
+Welcome to the Virtualization & Containerization repository !!!! This repository contains various projects focused on Docker and virtual machine (VM) setups. These projects demonstrate the use of containerization for environment setup and virtualization for creating and managing virtual machines.
